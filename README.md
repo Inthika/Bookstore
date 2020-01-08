@@ -1,3 +1,1 @@
-# bookstore
-require "index.php";
 
