@@ -1,3 +1,3 @@
 # bookstore
-require "../"
+require "index.php"
 
